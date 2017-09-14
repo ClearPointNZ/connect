@@ -1,7 +1,7 @@
 image::https://clearpointnz.github.io/connect/images/connect-logo.png[]
 by link:https://clearpoint.co.nz[ClearPoint]
 
-This is a template README.md file for the individual Connect repos. Use this as a guide and delete this line when you fork this README! Remember, any actual documentation should go in this repo in the /includes folder. Keep the README in your repo short - just a description and installation instructions.
+This is a template README.adoc file for the individual Connect repos. Use this as a guide and delete this line when you fork this README! Remember, any actual documentation should go in this repo in the /includes folder. Keep the README in your repo short - just a description and installation instructions.
 
 = Description
 Write a description on what your repository does and how to use it
