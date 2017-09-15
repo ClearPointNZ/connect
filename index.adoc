@@ -30,7 +30,7 @@ Sample app running in a CD pipeline using all the shared libraries and tools we'
 
 === Pipeline and Tools
 https://github.com/ClearPointNZ/connect-jenkins-bootstrap[Connect Jenkins Bootstrap]::
-Bootstraps Jenkins and some plugins into a Kubernetes cluster
+Bootstraps Jenkins and some plugins into a Kubernetes cluster.
 TIP: See blog http://blog.connect.cd/2017/09/bootstrapping-jenkins-in-a-kubernetes-cluster/[Part 2: Bootstrapping Jenkins in a Kubernetes cluster]
 
 === Kubernetes
