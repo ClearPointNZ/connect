@@ -1,4 +1,9 @@
 == Kubernetes
-Todo some stuff here in building clusters on AWS
 
 === Building clusters on AWS
+Follow along with our blog http://blog.connect.cd/2017/09/creating-a-kubernetes-cluster-on-aws/[Part 1: Creating a Kubernetes Cluster on AWS] to learn how to easily create yourself a remote cluster on AWS using Connect with Tack.
+
+You can also use https://github.com/kubernetes/kops/blob/master/docs/aws.md[kops] to create an AWS cluster.
+
+=== Building a local cluster
+We prefer using https://kubernetes.io/docs/tasks/tools/install-minikube/[Minikube] to spin up a local cluster for testing purposes.

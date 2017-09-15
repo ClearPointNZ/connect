@@ -1,4 +1,5 @@
 == Bootstrapping Jenkins
+You can follow our walkthrough in our http://blog.connect.cd/2017/09/bootstrapping-jenkins-in-a-kubernetes-cluster/[blog] or run through the instructions below. The official https://clearpointnz.github.io/connect/#_bootstrapping_jenkins[documentation] for Connect will also step you through installation.
 
 === Prerequisites
 
@@ -29,7 +30,7 @@ https://github.com/ClearPointNZ/connect-jenkins-bootstrap/blob/master/jenkins.ym
 
 https://github.com/ClearPointNZ/connect-jenkins-bootstrap/blob/master/jenkins.yml#L54-L62[Install plugins container] installs plugins listed in the `plugins` file to the `${JENKINS_HOME}/ref` folder for Jenkins to pick them up on startup
 
-https://github.com/ClearPointNZ/connect-jenkins-bootstrap/blob/master/jenkins.yml#L63-L81[Override config container] updates the Jenkins host and Kubernetes master host values in the `config.xml.override` using `scripts/hack-jenkins-env.sh`. Then it copies the updated config to the `${JENKINS_HOME}/ref` folder so it's picked up by Jenkins when it starts up. It also copies `scripts/security.groovy` to `${JENKINS_HOME}/ref/init.groovy.d/` and when Jenkins starts up it executes all Groovy sccripts from that folder. `security.groovy` sets up the `admin` user and initial password and Jenkins API token.
+https://github.com/ClearPointNZ/connect-jenkins-bootstrap/blob/master/jenkins.yml#L63-L81[Override config container] updates the Jenkins host and Kubernetes master host values in the `config.xml.override` using `scripts/hack-jenkins-env.sh`. Then it copies the updated config to the `${JENKINS_HOME}/ref` folder so it's picked up by Jenkins when it starts up. It also copies `scripts/security.groovy` to `${JENKINS_HOME}/ref/init.groovy.d/` and when Jenkins starts up it executes all Groovy scripts from that folder. `security.groovy` sets up the `admin` user and initial password and Jenkins API token.
 
 https://github.com/ClearPointNZ/connect-jenkins-bootstrap/blob/master/jenkins.yml#L82-L90[Copy jobs container] copies predefined job `config.xml` to `${JENKINS_HOME}/ref` folder.
 

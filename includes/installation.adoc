@@ -1,8 +1,0 @@
-== Getting started/Installation
-
-Details here on how to boostrap the connect platform.
-
-=== Bootstrapping on AWS
-
-=== Developer setup on MiniKube
-link:https://github.com/kubernetes/minikube[Minikube] is our recommended approach to running your cluster on development machines.
