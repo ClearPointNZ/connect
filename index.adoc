@@ -45,6 +45,8 @@ http://blog.connect.cd/2017/09/bootstrap-continuous-delivery-with-connect/[Intro
 
 http://blog.connect.cd/2017/09/creating-a-kubernetes-cluster-on-aws/[Part 1: Creating a Kubernetes Cluster on AWS]
 
+http://blog.connect.cd/2017/09/bootstrapping-jenkins-in-a-kubernetes-cluster/[Part 2: Bootstrapping Jenkins in a Kubernetes cluster]
+
 //TODO turn this into a table (image from connect ppt)
 image::images/connect-components.png[]
 
