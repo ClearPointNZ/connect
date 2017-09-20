@@ -1,10 +1,10 @@
 # Connect
-Connect is a Continuous Delivery Platform from [ClearPoint](http://clearpoint.co.nz)  
+[Connect](http://connect.cd) is a Continuous Delivery Platform from [ClearPoint](http://clearpoint.co.nz)  
 
-Connect gathers our best practice approaches to deploying working software into the cloud with confidence.
+[Connect](http://connect.cd) gathers our best practice approaches to deploying working software into the cloud with confidence.
 
 ## Overview
-This is the main documentation repository for Connect. The documentation output can be found here: [docs.connect.cd](http://docs.connect.cd)
+This is the main documentation repository for [Connect](http://connect.cd). The documentation output can be found here: [docs.connect.cd](http://docs.connect.cd)
 
 ## Contributing
 We welcome contributions to the Platform! Small, well tested Pull Requests are preferred. Please ensure you provide a descriptive title for your changes and that your code is well commented. We love code that explains itself!  
