@@ -1,5 +1,3 @@
-image::https://clearpointnz.github.io/connect/images/connect-logo.png[]
-by link:https://clearpoint.co.nz[ClearPoint]
 
 This is a template README.adoc file for the individual Connect repos. Use this as a guide and delete this line when you fork this README! Remember, any actual documentation should go in this repo in the /includes folder. Keep the README in your repo short - just a description and installation instructions.
 
@@ -14,15 +12,13 @@ TravisCI link or something else - delete if not needed
 
 '''
 
-= Connect
-Connect is a Continuous Delivery Platform from link:http://clearpoint.co.nz[ClearPoint]  
-
-Connect gathers our best practice approaches to deploying working software into the cloud with confidence.
-
-The main Connect repository is link:https://github.com/ClearPointNZ/connect[here]
-
 == Documentation
 The main documentation for Connect can be found here: link:http://docs.connect.cd[docs.connect.cd]
 
-== Help
-Any queries on the Connect platform can be sent to us link:here[connect@clearpoint.co.nz]
+image::http://website.clearpoint.co.nz/connect/connect-logo-on-white-border.png[]
+link:http://connect.cd[Connect] is a Continuous Delivery Platform that gathers best practice approaches for deploying working software into the cloud with confidence.
+
+The main documentation for link:http://connect.cd[Connect] can be found at [docs.connect.cd](http://docs.connect.cd)
+
+Any queries on the link:http://connect.cd[Connect] platform can be sent to: <connect@clearpoint.co.nz>
+
