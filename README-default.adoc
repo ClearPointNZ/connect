@@ -11,7 +11,7 @@ How to install
 TravisCI link or something else - delete if not needed
 
 == Documentation
-The main documentation for Connect can be found here: link:http://docs.connect.cd[docs.connect.cd]
+The main documentation for Connect can be found at: link:http://docs.connect.cd[docs.connect.cd]
 
 '''
 image::http://website.clearpoint.co.nz/connect/connect-logo-on-white-border.png[]
