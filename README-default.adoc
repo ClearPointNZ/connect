@@ -26,7 +26,3 @@ The main documentation for Connect can be found here: link:http://docs.connect.c
 
 == Help
 Any queries on the Connect platform can be sent to us link:here[connect@clearpoint.co.nz]
-
-image::http://website.clearpoint.co.nz/connect/connect-logo-on-white-border.png[]
-
-link:(http://connect.cd[Connect]
