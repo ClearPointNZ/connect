@@ -17,5 +17,11 @@ Issues with this or any other Connect repository are handled through the GitHub 
 ## Build Status
 [![Build Status](https://api.travis-ci.org/ClearPointNZ/connect.svg)](https://travis-ci.org/ClearPointNZ/connect)
 
-## Help
-Any queries on the Connect platform can be sent here: <connect@clearpoint.co.nz>
+----------------------
+![# Connect](http://website.clearpoint.co.nz/connect/connect-logo-on-white-border.png "Connect Continuous Delivery Platform")
+
+[Connect](http://connect.cd) is a Continuous Delivery Platform that gathers best practice approaches for deploying working software into the cloud with confidence.
+
+The main documentation for [Connect](http://connect.cd) can be found at [docs.connect.cd](http://docs.connect.cd)
+
+Any queries on the [Connect](http://connect.cd) platform can be sent to: <connect@clearpoint.co.nz>
